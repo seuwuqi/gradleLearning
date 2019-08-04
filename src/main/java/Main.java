@@ -14,7 +14,7 @@ public class Main {
 
 
     public void bye(String name){
-        System.out.println("bye,bye"+name);
+        System.out.println("bye,addddbye"+name);
     }
 
 
