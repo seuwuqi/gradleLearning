@@ -15,7 +15,6 @@ public class Main {
 
 
     public void play(String name){
-
         System.out.println(name+"playing");
     }
 
