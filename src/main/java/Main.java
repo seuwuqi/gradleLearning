@@ -20,6 +20,10 @@ public class Main {
 
     public void zhangsan(){
         System.out.println("zhangsan");
+        System.out.println("lisi");
+
     }
+
+
 
 }
