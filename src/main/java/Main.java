@@ -12,4 +12,9 @@ public class Main {
     }
 
 
+
+    public void bye(String name){
+        System.out.println("bye,"+name);
+    }
+
 }
