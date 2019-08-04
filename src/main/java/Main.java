@@ -21,8 +21,7 @@ public class Main {
     public void zhangsan(){
         System.out.println("zhangsan");
         System.out.println("lisi");
-        System.out.println("777777");
-        System.out.println("stash");
+        System.out.println("888888");
     }
 
 
