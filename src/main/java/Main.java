@@ -17,4 +17,9 @@ public class Main {
         System.out.println("bye,"+name);
     }
 
+
+    public void zhangsan(){
+        System.out.println("zhangsan");
+    }
+
 }
