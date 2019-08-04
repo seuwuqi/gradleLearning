@@ -8,3 +8,6 @@
 out
 gen
 
+将删除 .gradle/4.10.3/vcsMetadata-1/
+将删除 src/main/resources/
+将删除 src/test/
