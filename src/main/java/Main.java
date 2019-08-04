@@ -5,8 +5,7 @@ public class Main {
         String name1 = "wuqi";
         String name2 = "zhangsan";
         String name4 = "lisi";
-        String name5 = "wangermazi";
-
+        String name5 = "chenanqi";
     }
 
 

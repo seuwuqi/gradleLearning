@@ -1,13 +1,6 @@
-# Created by .ignore support plugin (hsz.mobi)
-### Example user template template
-### Example user template
 
-# IntelliJ project files
-.idea
-*.iml
-out
-gen
 
-将删除 .gradle/4.10.3/vcsMetadata-1/
-将删除 src/main/resources/
-将删除 src/test/
+
+/.idea
+/.gradle
+
