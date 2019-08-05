@@ -21,10 +21,15 @@ public class Main {
         System.out.println("zhangsan");
         System.out.println("lisi");
         System.out.println("999999");
+        System.out.println("chenanqi 666");
     }
 
     public void play(String name){
         System.out.println(name+"playing");
+    }
+
+    public void wuqidev(){
+        System.out.println("wuqi");
     }
 
 }
