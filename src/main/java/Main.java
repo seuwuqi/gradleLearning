@@ -30,10 +30,13 @@ public class Main {
     public void play2(String name){
         System.out.println(name+"playing");
     }
-
-
-
     public void wuqidev(){
+        System.out.println("wuqi");
+    }
+    public void newwuqidev(){
+        System.out.println("wuqi");
+    }
+    public void newuqidev(){
         System.out.println("wuqi");
     }
 
